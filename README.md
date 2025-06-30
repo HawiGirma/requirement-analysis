@@ -93,3 +93,18 @@ Non-functional requirements define how the system should perform. These requirem
 - The user interface should be mobile-friendly and responsive.
 - The platform should support up to 10,000 concurrent users without performance degradation.
 
+## Use Case Diagrams
+
+Use Case Diagrams are a type of Unified Modeling Language (UML) diagram used in requirement analysis to visualize the interactions between users (actors) and the system. They help stakeholders understand system functionality at a high level by identifying **who** uses the system and **what** operations they perform.
+
+### ✅ Benefits of Use Case Diagrams:
+- Clarify system scope and functionality
+- Help identify user roles and interactions
+- Serve as a foundation for writing functional requirements
+- Facilitate communication between stakeholders and developers
+
+### 📌 Use Case Diagram for Booking System
+
+The diagram below illustrates the main actors and use cases in a property booking system:
+
+![Use Case Diagram for Booking System](alx-booking-uc.png)
