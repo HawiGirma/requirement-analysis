@@ -38,3 +38,33 @@ Requirement analysis acts as a communication bridge between stakeholders and dev
 With well-defined requirements, project managers can estimate timeframes, allocate resources more efficiently, and identify potential risks early. This leads to better planning, scheduling, and budgeting throughout the project lifecycle.
 
 Additional benefits include improved software quality, reduced development effort, and increased stakeholder satisfaction.
+
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves several essential activities to ensure the software meets user needs and expectations. Below are the five key activities:
+
+- **Requirement Gathering**
+  - Involves collecting raw information and expectations from stakeholders.
+  - Uses methods like surveys, interviews, observations, and document reviews.
+  - Forms the foundation for further refinement.
+
+- **Requirement Elicitation**
+  - Focuses on understanding and clarifying stakeholder needs.
+  - Engages stakeholders through brainstorming, focus groups, and prototyping.
+  - Aims to uncover hidden or implicit requirements.
+
+- **Requirement Documentation**
+  - Translates gathered and elicited requirements into structured formats.
+  - Includes use cases, user stories, functional specifications, and requirement specification documents (SRS).
+  - Ensures requirements are clearly written and traceable.
+
+- **Requirement Analysis and Modeling**
+  - Involves analyzing requirements for completeness, feasibility, and consistency.
+  - Uses models like use case diagrams, data flow diagrams (DFD), and entity-relationship diagrams (ERD).
+  - Helps in visualizing and organizing complex requirements.
+
+- **Requirement Validation**
+  - Ensures that the documented requirements accurately reflect stakeholder needs.
+  - Conducts reviews, inspections, and walkthroughs with stakeholders.
+  - Helps identify and correct errors early in the development process.
+
